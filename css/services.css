@@ -1,0 +1,9 @@
+.services .service {
+  position: relative;
+  height: 340px;
+}
+.services .service img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}/*# sourceMappingURL=services.css.map */
